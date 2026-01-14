@@ -1,9 +1,9 @@
-import subtractimg from "../../assets/subtract.jpg";
+import subtractimg from "../../assets/Subtract.jpg";
 
 export default function Digonalimgcard() {
   return (
     <div
-      className="relative w-[800px] h-[400px] overflow-hidden clip-diagonal mt-40 mr-17"
+      className="relative w-200 h-100 overflow-hidden clip-diagonal mt-40 mr-17"
     >
       {/* Image */}
       <img
